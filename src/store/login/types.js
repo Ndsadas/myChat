@@ -1,0 +1,1 @@
+export const CREATE_PROFILE_ON_LOGIN = '@login/create profile on login'
